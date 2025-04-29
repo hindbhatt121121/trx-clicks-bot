@@ -1,0 +1,14 @@
+{
+  "name": "trx-clicks-bot",
+  "version": "1.0.0",
+  "description": "Telegram click-to-earn bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.0.0",
+    "node-telegram-bot-api": "^0.60.0"
+  }
+}
